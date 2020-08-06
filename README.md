@@ -4,5 +4,6 @@ Kumpulan algoritma dasar yang diterapkan menggunakan bahasa pemrograman Fortran 
 2. Deret Bilangan Genap
 3. Deret Fibbonacci
 4. Menentukan Nilai Minimum dan Maksimum
+5. Mengurutkan angka
 # Kontak
 email: personal@auliakhalqillah.com
