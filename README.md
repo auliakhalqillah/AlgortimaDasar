@@ -6,4 +6,4 @@ Kumpulan algoritma dasar yang diterapkan menggunakan bahasa pemrograman Fortran 
 4. Menentukan Nilai Minimum dan Maksimum
 5. Mengurutkan angka
 # Kontak
-email: personal@auliakhalqillah.com
+email: auliakhalqillah.mail@gmail.com
