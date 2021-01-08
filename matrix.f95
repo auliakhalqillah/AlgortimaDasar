@@ -25,5 +25,33 @@ program matrixsederhana
     do i = 1,3
         write(*,*) (a(i,j), j=1,2)
     end do
+
+    write(*,*)
+
+    ! Menjumlahkan matrix dengan suatu nilai
+    do i = 1,3
+        write(*,*) (a(i,j) + 5, j=1,2)
+    end do
+
+    write(*,*)
+
+    ! Mengurangkan matrix dengan suatu nilai
+    do i = 1,3
+        write(*,*) (a(i,j) - 2, j=1,2)
+    end do
+
+    write(*,*)
+
+    ! Menjumlahkan matrix dengan matrix
+    do i = 1,3
+        write(*,*) (a(i,j) + a(i,j), j=1,2)
+    end do
+
+    write(*,*)
     
+    ! Mengurangkan matrix dengan matrix
+    do i = 1,3
+        write(*,*) (a(i,j) - a(i,j), j=1,2)
+    end do
+
 end program matrixsederhana
