@@ -32,7 +32,7 @@ program cal_derteminant
         read(1,*,iostat=io)
         write(*,*)'Baris ke-',m+1, io
         if (io /= 0) exit
-            m = m + 1
+        m = m + 1
     end do
     close(1)
 
