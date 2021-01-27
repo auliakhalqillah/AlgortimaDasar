@@ -22,7 +22,7 @@ program cal_derteminant
 
     allocate(matrix(m,n))
 
-    open(2,file='data_matrix.txt')
+    open(2,file='data_matrix_high.txt')
     do i = 1,m 
         do j = 1,n
             read(2,*) matrix(i,j)
