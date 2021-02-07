@@ -5,5 +5,11 @@ Kumpulan algoritma dasar yang diterapkan menggunakan bahasa pemrograman Fortran 
 3. Deret Fibbonacci
 4. Menentukan Nilai Minimum dan Maksimum
 5. Mengurutkan angka
+6. Determinan Matrix
+7. Penjumlahan Matrix
+8. Pengurangan Matrix
+9. Perkalian Matrix
+10. Pembagian Matrix
+11. Penjumlahan dengan metode Rekursi
 # Kontak
 email: auliakhalqillah.mail@gmail.com
